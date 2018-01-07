@@ -366,6 +366,21 @@ footer {
 
 }
 
+.sword{
+    width: 560px;
+    height: 794px;
+    display: block;
+    background-image: url(../smp/assets/yojimbo.png);
+    animation: attack_derecha 1s steps(10) infinite;
+    position: relative;
+    top:-300px;
+}
+@keyframes attack_derecha{
+   to{
+        background-position: 8800px;
+        }
+}
+
 /* Slideshow container */
 
 .slideshow-container {
