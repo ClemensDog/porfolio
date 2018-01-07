@@ -206,6 +206,9 @@ section {
         left: 340px;
     }
 
+
+
+
 }
 
 aside .main-video {
@@ -220,7 +223,7 @@ aside .main-video {
 }
 
 section div {
-    font-size: 2em;
+    font-size: 1em;
     width: 460px;
     top: 0px;
     left: 00px;
@@ -228,7 +231,7 @@ section div {
 }
 
 .section_div1 {
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: left;
     padding-top: 125px;
     padding-left: 85px;
