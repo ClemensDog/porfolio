@@ -155,7 +155,7 @@ section {
 
 /*//////////////////////////////DESKTOP//////////////////*/
 
-@media all and (min-width:50em) {
+@media all and (min-width:60em) {
     body {
         width: 1024px;
 
