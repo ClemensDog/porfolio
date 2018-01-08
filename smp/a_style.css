@@ -391,6 +391,14 @@ footer {
     }
 }
 
+
+@media (max-width: 60em) {
+.right_img {
+display: none;
+
+}
+
+
 /* Slideshow container */
 
 .slideshow-container {
@@ -504,8 +512,12 @@ footer {
         opacity: 1
     }
 }
-@media (max-width: 60em) {
-.right_img {
-display: none;
-}
-}
+
+
+
+
+
+
+
+
+ }
