@@ -99,6 +99,7 @@ ul li {
 /*FINAL - Burguer Menu Mobile Version<--------------*/
 
 aside {
+    display: block;
     grid-area: aside;
     width: 100%;
     height: 287px;
@@ -193,6 +194,7 @@ section {
     }
     /*FINAL - Menu Desktop Version<--------------*/
     aside {
+        display: block;
         width: 100%;
         height: 576px
     }
@@ -219,6 +221,7 @@ aside .main-video {
 }
 
 section div {
+    display: block;
     font-size: 1em;
     width: 460px;
     top: 0px;
@@ -227,6 +230,7 @@ section div {
 }
 
 .section_div1 {
+    display: block;
     font-size: 1.5em;
     text-align: left;
     padding-top: 125px;
@@ -236,6 +240,7 @@ section div {
 }
 
 .section_div1 h1 {
+    display: block;
     text-align: left;
     font-size: 1.6em;
 }
@@ -262,7 +267,7 @@ footer {
 }
 
 .Web {
-    background: url(assets/web.PNG);
+    background: url(assets/web.png);
 
     background-size: 100%;
     height: 100%;
@@ -272,7 +277,7 @@ footer {
 }
 
 .Animation {
-    background: url(assets/animation.PNG);
+    background: url(assets/animation.png);
     background-size: 100%;
     height: 100%;
     width: 100%;
