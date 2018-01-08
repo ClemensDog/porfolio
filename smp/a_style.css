@@ -268,6 +268,7 @@ footer {
 
 .Web {
     background: url(assets/web.png);
+    display: block;
 
     background-size: 100%;
     height: 100%;
@@ -277,6 +278,7 @@ footer {
 }
 
 .Animation {
+     display: block;
     background: url(assets/animation.png);
     background-size: 100%;
     height: 100%;
@@ -286,6 +288,7 @@ footer {
 }
 
 .UX {
+     display: block;
     background-image: url(assets/UX.PNG);
     background-size: 100%;
     height: 100%;
@@ -295,6 +298,7 @@ footer {
 }
 
 .Video {
+     display: block;
     background-image: url(assets/video.PNG);
     background-size: 100%;
     height: 100%;
